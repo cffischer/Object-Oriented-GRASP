@@ -1,0 +1,2 @@
+# Object-Oriented-GRASP
+Object Oriented GRASP is  general relativistic atomic structure software organized as the processing of objects that  is both more readable and manages memory more efficiently.  Written in Fortran 2008 or later, it relies extensively on parameterized user-defined data types for defining objects and linked lists for managing memory of lists whose size cannot be determined in advance.
