@@ -12,7 +12,7 @@ Project 3 introduced data structures for ORBs  and CSFs but these do not play an
 
 ## The Main program
 The main program of the current RANGULAR version must remove all the USE statements that refer to variables in COMMON or variables that are replaced in new modules associated with data types or other new modules.
-* Module Const
+### Module Const
 
 This could be the Zconst module of DBSR_HF  with addition parameters associated with our GRASP.  These include  the following:
   * Kind- constants ( we should define both the GRASP kinds as well as the DBSR_HF kinds but with the intention of ultimately using only the latter)
@@ -24,13 +24,13 @@ Let's start with the zconst version and add to this module as we see fit.  It is
 * Module Atoms_const
 This could be our version of the DBSR_HF  module atoms_par but modified to our view of things.  In particular, our new rnucleus module could be included here   (CONTAINS). 
 
-* Library  Angular
+### Library  Angular
 
 Unfortunately the  GRASP Lib92 and RANGULAR are not clearly documented.  
 
 These new modules would be USED In the main program.  Some CALLS can be removed since, at this stage, we do not want to think about debugging and user defaults.  I think we would also move in the DBSR_HF directions and have `atoms.inp` file that has defaults as well as arguments on the command line.  So that means we need to think about a set of basic keywords that are recognized on the command line, but maybe this is not something we should worry about initially. 
 
-* The algorithm
+### The algorithm
 
 The current version generates all the angular data and then sorts the data into some order.  Sorting can be avoided which is desirable when lists get very large.  A  faster procedure is to generate the list of integrals from the orbital set as in `genintrk.f90` of RCI, except that the 'Value' array is not computed by RANGULAR.  There could by a Logical array to keep track of which integrals actually appear in the final list. This list of Integrals and whether they are used could be stored and passed on the RMCDHF so that the latter knows which integrals need to be evaluated.  So the basic algorithm is:
 
