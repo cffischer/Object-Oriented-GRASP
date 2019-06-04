@@ -10,7 +10,7 @@ infile = open(my_file,'r')
 
 cols=40
 rarray= []
-stringOut="table(1)%z=["
+stringOut="table(1)%min_a=1 \n table(1)%z=["
 
 i=1
 j=1
@@ -29,7 +29,7 @@ for x in infile:
     r=arrx[3].replace(" ","")
 
     while k !=zval and j<=cols:
-        stringOut+='0'+','
+        stringOut+='0.0000'+','
         i+=1
         j+=1     
     
@@ -40,17 +40,17 @@ for x in infile:
             j+=1
         else:
             while i != aval and j<=cols: 
-                stringOut+='0'+','
+                stringOut+='0.0000'+','
                 i+=1
                 j+=1
             if j>cols:
                 i=aval
                 j=1
                 stringOut = stringOut[:-1]
-                stringOut+="] \n table("+z+")%z=["
+                stringOut+="] \n table("+z+")%min_a="+a+" \n  table("+z+")%z=["
                 k+=1
                 while i != aval and j<=cols: 
-                    stringOut+='0'+','
+                    stringOut+='0.0000'+','
                     i+=1
                     j+=1
                 if i==aval:
@@ -65,10 +65,10 @@ for x in infile:
         i=aval
         j=1
         stringOut = stringOut[:-1]
-        stringOut+="] \n table("+z+")%z=["
+        stringOut+="] \n table("+z+")%min_a="+a+" \n table("+z+")%z=["
         k+=1
         while i != aval and j<=cols: 
-            stringOut+='0'+','
+            stringOut+='0.0000'+','
             i+=1
             j+=1
         if i==aval:
@@ -76,7 +76,7 @@ for x in infile:
             i+=1
             j+=1
 while j<=cols: 
-    stringOut+='0'+','
+    stringOut+='0.0000'+','
     j+=1
 stringOut = stringOut[:-1]
 stringOut+="]"
