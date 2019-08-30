@@ -1,0 +1,528 @@
+Loading CSF File for block            1
+ From LODCSL:
+ CSF            1
+ ITJPO:            2
+ ISPAR:           -1
+ IQ:            2           2           2           4           2           1           0           0           0
+ JQS(1):            0           0           0           0           0           1           0           0           0
+ JQS(2):            0           0           0           0           0           0           0           0           0
+ JQS(3):            1           1           1           1           1           2           1           1           1
+ JCUP:            0           0           0           0           0           0           0           0
+ CSF            2
+ ITJPO:            2
+ ISPAR:           -1
+ IQ:            2           2           2           4           1           0           1           0           1
+ JQS(1):            0           0           0           0           1           0           1           0           1
+ JQS(2):            0           0           0           0           0           0           0           0           0
+ JQS(3):            1           1           1           1           2           1           4           1           6
+ JCUP:            5           2           0           0           0           0           0           0
+ CSF            3
+ ITJPO:            2
+ ISPAR:           -1
+ IQ:            2           2           2           4           1           0           1           1           0
+ JQS(1):            0           0           0           0           1           0           1           1           0
+ JQS(2):            0           0           0           0           0           0           0           0           0
+ JQS(3):            1           1           1           1           2           1           4           4           1
+ JCUP:            3           2           0           0           0           0           0           0
+ CSF            4
+ ITJPO:            2
+ ISPAR:           -1
+ IQ:            2           2           2           4           1           0           1           1           0
+ JQS(1):            0           0           0           0           1           0           1           1           0
+ JQS(2):            0           0           0           0           0           0           0           0           0
+ JQS(3):            1           1           1           1           2           1           4           4           1
+ JCUP:            5           2           0           0           0           0           0           0
+ CSF            5
+ ITJPO:            2
+ ISPAR:           -1
+ IQ:            2           2           2           4           1           1           0           1           0
+ JQS(1):            0           0           0           0           1           1           0           1           0
+ JQS(2):            0           0           0           0           0           0           0           0           0
+ JQS(3):            1           1           1           1           2           2           1           4           1
+ JCUP:            3           2           0           0           0           0           0           0
+ CSF            6
+ ITJPO:            2
+ ISPAR:           -1
+ IQ:            2           2           2           4           0           1           2           0           0
+ JQS(1):            0           0           0           0           0           1           0           0           0
+ JQS(2):            0           0           0           0           0           0           0           0           0
+ JQS(3):            1           1           1           1           1           2           1           1           1
+ JCUP:            2           0           0           0           0           0           0           0
+ CSF            7
+ ITJPO:            2
+ ISPAR:           -1
+ IQ:            2           2           2           4           0           0           1           0           2
+ JQS(1):            0           0           0           0           0           0           1           0           2
+ JQS(2):            0           0           0           0           0           0           0           0           0
+ JQS(3):            1           1           1           1           1           1           4           1           5
+ JCUP:            2           0           0           0           0           0           0           0
+ CSF            8
+ ITJPO:            2
+ ISPAR:           -1
+ IQ:            2           2           2           4           0           0           1           1           1
+ JQS(1):            0           0           0           0           0           0           1           1           1
+ JQS(2):            0           0           0           0           0           0           0           0           0
+ JQS(3):            1           1           1           1           1           1           4           4           6
+ JCUP:            5           2           0           0           0           0           0           0
+ CSF            9
+ ITJPO:            2
+ ISPAR:           -1
+ IQ:            2           2           2           4           0           0           1           1           1
+ JQS(1):            0           0           0           0           0           0           1           1           1
+ JQS(2):            0           0           0           0           0           0           0           0           0
+ JQS(3):            1           1           1           1           1           1           4           4           6
+ JCUP:            7           2           0           0           0           0           0           0
+ CSF           10
+ ITJPO:            2
+ ISPAR:           -1
+ IQ:            2           2           2           4           0           0           1           2           0
+ JQS(1):            0           0           0           0           0           0           1           2           0
+ JQS(2):            0           0           0           0           0           0           0           0           0
+ JQS(3):            1           1           1           1           1           1           4           5           1
+ JCUP:            2           0           0           0           0           0           0           0
+ CSF           11
+ ITJPO:            2
+ ISPAR:           -1
+ IQ:            2           2           2           4           0           1           0           0           2
+ JQS(1):            0           0           0           0           0           1           0           0           0
+ JQS(2):            0           0           0           0           0           0           0           0           0
+ JQS(3):            1           1           1           1           1           2           1           1           1
+ JCUP:            2           0           0           0           0           0           0           0
+ CSF           12
+ ITJPO:            2
+ ISPAR:           -1
+ IQ:            2           2           2           4           0           1           0           1           1
+ JQS(1):            0           0           0           0           0           1           0           1           1
+ JQS(2):            0           0           0           0           0           0           0           0           0
+ JQS(3):            1           1           1           1           1           2           1           4           6
+ JCUP:            5           2           0           0           0           0           0           0
+ CSF           13
+ ITJPO:            2
+ ISPAR:           -1
+ IQ:            2           2           2           4           0           1           0           2           0
+ JQS(1):            0           0           0           0           0           1           0           0           0
+ JQS(2):            0           0           0           0           0           0           0           0           0
+ JQS(3):            1           1           1           1           1           2           1           1           1
+ JCUP:            2           0           0           0           0           0           0           0
+ There are           13  relativistic CSFs... load complete;
+ Analysing sparse matrix array definition file ...          30
+  ... complete; density of non-zero elements of H(DC):          74 /          91
+ Sorting 0 T coefficients ...          31
+
+From SORT:
+ Sorting 0 V(k=0) coefficients ...          32
+
+From SORT:
+ Sorting 58 V(k=1) coefficients ...          33
+
+From SORT:
+ Sorting 96 V(k=2) coefficients ...          34
+
+From SORT:
+ Sorting 29 V(k=3) coefficients ...          35
+
+From SORT:
+ Sorting 10 V(k=4) coefficients ...          36
+
+From SORT:
+ Sorting 0 V(k=5) coefficients ...          37
+
+From SORT:
+
+ Block            2 ,  ncf =           22
+           4
+           2
+ Loading CSF File for block            2
+ From LODCSL:
+ CSF            1
+ ITJPO:            4
+ ISPAR:           -1
+ IQ:            2           2           2           4           2           0           1           0           0
+ JQS(1):            0           0           0           0           0           0           1           0           0
+ JQS(2):            0           0           0           0           0           0           0           0           0
+ JQS(3):            1           1           1           1           1           1           4           1           1
+ JCUP:            0           0           0           0           0           0           0           0
+ CSF            2
+ ITJPO:            4
+ ISPAR:           -1
+ IQ:            2           2           2           4           1           0           1           0           1
+ JQS(1):            0           0           0           0           1           0           1           0           1
+ JQS(2):            0           0           0           0           0           0           0           0           0
+ JQS(3):            1           1           1           1           2           1           4           1           6
+ JCUP:            3           4           0           0           0           0           0           0
+ CSF            3
+ ITJPO:            4
+ ISPAR:           -1
+ IQ:            2           2           2           4           1           0           1           0           1
+ JQS(1):            0           0           0           0           1           0           1           0           1
+ JQS(2):            0           0           0           0           0           0           0           0           0
+ JQS(3):            1           1           1           1           2           1           4           1           6
+ JCUP:            5           4           0           0           0           0           0           0
+ CSF            4
+ ITJPO:            4
+ ISPAR:           -1
+ IQ:            2           2           2           4           1           0           1           1           0
+ JQS(1):            0           0           0           0           1           0           1           1           0
+ JQS(2):            0           0           0           0           0           0           0           0           0
+ JQS(3):            1           1           1           1           2           1           4           4           1
+ JCUP:            3           4           0           0           0           0           0           0
+ CSF            5
+ ITJPO:            4
+ ISPAR:           -1
+ IQ:            2           2           2           4           1           0           1           1           0
+ JQS(1):            0           0           0           0           1           0           1           1           0
+ JQS(2):            0           0           0           0           0           0           0           0           0
+ JQS(3):            1           1           1           1           2           1           4           4           1
+ JCUP:            5           4           0           0           0           0           0           0
+ CSF            6
+ ITJPO:            4
+ ISPAR:           -1
+ IQ:            2           2           2           4           1           1           0           0           1
+ JQS(1):            0           0           0           0           1           1           0           0           1
+ JQS(2):            0           0           0           0           0           0           0           0           0
+ JQS(3):            1           1           1           1           2           2           1           1           6
+ JCUP:            3           4           0           0           0           0           0           0
+ CSF            7
+ ITJPO:            4
+ ISPAR:           -1
+ IQ:            2           2           2           4           1           1           0           1           0
+ JQS(1):            0           0           0           0           1           1           0           1           0
+ JQS(2):            0           0           0           0           0           0           0           0           0
+ JQS(3):            1           1           1           1           2           2           1           4           1
+ JCUP:            1           4           0           0           0           0           0           0
+ CSF            8
+ ITJPO:            4
+ ISPAR:           -1
+ IQ:            2           2           2           4           1           1           0           1           0
+ JQS(1):            0           0           0           0           1           1           0           1           0
+ JQS(2):            0           0           0           0           0           0           0           0           0
+ JQS(3):            1           1           1           1           2           2           1           4           1
+ JCUP:            3           4           0           0           0           0           0           0
+ CSF            9
+ ITJPO:            4
+ ISPAR:           -1
+ IQ:            2           2           2           4           0           0           3           0           0
+ JQS(1):            0           0           0           0           0           0           1           0           0
+ JQS(2):            0           0           0           0           0           0           0           0           0
+ JQS(3):            1           1           1           1           1           1           4           1           1
+ JCUP:            0           0           0           0           0           0           0           0
+ CSF           10
+ ITJPO:            4
+ ISPAR:           -1
+ IQ:            2           2           2           4           0           1           2           0           0
+ JQS(1):            0           0           0           0           0           1           2           0           0
+ JQS(2):            0           0           0           0           0           0           0           0           0
+ JQS(3):            1           1           1           1           1           2           5           1           1
+ JCUP:            4           0           0           0           0           0           0           0
+ CSF           11
+ ITJPO:            4
+ ISPAR:           -1
+ IQ:            2           2           2           4           0           2           1           0           0
+ JQS(1):            0           0           0           0           0           0           1           0           0
+ JQS(2):            0           0           0           0           0           0           0           0           0
+ JQS(3):            1           1           1           1           1           1           4           1           1
+ JCUP:            0           0           0           0           0           0           0           0
+ CSF           12
+ ITJPO:            4
+ ISPAR:           -1
+ IQ:            2           2           2           4           0           0           1           0           2
+ JQS(1):            0           0           0           0           0           0           1           0           0
+ JQS(2):            0           0           0           0           0           0           0           0           0
+ JQS(3):            1           1           1           1           1           1           4           1           1
+ JCUP:            4           0           0           0           0           0           0           0
+ CSF           13
+ ITJPO:            4
+ ISPAR:           -1
+ IQ:            2           2           2           4           0           0           1           0           2
+ JQS(1):            0           0           0           0           0           0           1           0           2
+ JQS(2):            0           0           0           0           0           0           0           0           0
+ JQS(3):            1           1           1           1           1           1           4           1           5
+ JCUP:            4           0           0           0           0           0           0           0
+ CSF           14
+ ITJPO:            4
+ ISPAR:           -1
+ IQ:            2           2           2           4           0           0           1           1           1
+ JQS(1):            0           0           0           0           0           0           1           1           1
+ JQS(2):            0           0           0           0           0           0           0           0           0
+ JQS(3):            1           1           1           1           1           1           4           4           6
+ JCUP:            3           4           0           0           0           0           0           0
+ CSF           15
+ ITJPO:            4
+ ISPAR:           -1
+ IQ:            2           2           2           4           0           0           1           1           1
+ JQS(1):            0           0           0           0           0           0           1           1           1
+ JQS(2):            0           0           0           0           0           0           0           0           0
+ JQS(3):            1           1           1           1           1           1           4           4           6
+ JCUP:            5           4           0           0           0           0           0           0
+ CSF           16
+ ITJPO:            4
+ ISPAR:           -1
+ IQ:            2           2           2           4           0           0           1           1           1
+ JQS(1):            0           0           0           0           0           0           1           1           1
+ JQS(2):            0           0           0           0           0           0           0           0           0
+ JQS(3):            1           1           1           1           1           1           4           4           6
+ JCUP:            7           4           0           0           0           0           0           0
+ CSF           17
+ ITJPO:            4
+ ISPAR:           -1
+ IQ:            2           2           2           4           0           0           1           2           0
+ JQS(1):            0           0           0           0           0           0           1           0           0
+ JQS(2):            0           0           0           0           0           0           0           0           0
+ JQS(3):            1           1           1           1           1           1           4           1           1
+ JCUP:            4           0           0           0           0           0           0           0
+ CSF           18
+ ITJPO:            4
+ ISPAR:           -1
+ IQ:            2           2           2           4           0           0           1           2           0
+ JQS(1):            0           0           0           0           0           0           1           2           0
+ JQS(2):            0           0           0           0           0           0           0           0           0
+ JQS(3):            1           1           1           1           1           1           4           5           1
+ JCUP:            4           0           0           0           0           0           0           0
+ CSF           19
+ ITJPO:            4
+ ISPAR:           -1
+ IQ:            2           2           2           4           0           1           0           0           2
+ JQS(1):            0           0           0           0           0           1           0           0           2
+ JQS(2):            0           0           0           0           0           0           0           0           0
+ JQS(3):            1           1           1           1           1           2           1           1           5
+ JCUP:            4           0           0           0           0           0           0           0
+ CSF           20
+ ITJPO:            4
+ ISPAR:           -1
+ IQ:            2           2           2           4           0           1           0           1           1
+ JQS(1):            0           0           0           0           0           1           0           1           1
+ JQS(2):            0           0           0           0           0           0           0           0           0
+ JQS(3):            1           1           1           1           1           2           1           4           6
+ JCUP:            3           4           0           0           0           0           0           0
+ CSF           21
+ ITJPO:            4
+ ISPAR:           -1
+ IQ:            2           2           2           4           0           1           0           1           1
+ JQS(1):            0           0           0           0           0           1           0           1           1
+ JQS(2):            0           0           0           0           0           0           0           0           0
+ JQS(3):            1           1           1           1           1           2           1           4           6
+ JCUP:            5           4           0           0           0           0           0           0
+ CSF           22
+ ITJPO:            4
+ ISPAR:           -1
+ IQ:            2           2           2           4           0           1           0           2           0
+ JQS(1):            0           0           0           0           0           1           0           2           0
+ JQS(2):            0           0           0           0           0           0           0           0           0
+ JQS(3):            1           1           1           1           1           2           1           5           1
+ JCUP:            4           0           0           0           0           0           0           0
+ There are           22  relativistic CSFs... load complete;
+ Analysing sparse matrix array definition file ...          30
+  ... complete; density of non-zero elements of H(DC):         194 /         253
+ Sorting 0 T coefficients ...          31
+
+From SORT:
+ Sorting 0 V(k=0) coefficients ...          32
+
+From SORT:
+ Sorting 134 V(k=1) coefficients ...          33
+
+From SORT:
+ Sorting 212 V(k=2) coefficients ...          34
+
+From SORT:
+ Sorting 79 V(k=3) coefficients ...          35
+
+From SORT:
+ Sorting 20 V(k=4) coefficients ...          36
+
+From SORT:
+ Sorting 0 V(k=5) coefficients ...          37
+
+From SORT:
+
+ Block            3 ,  ncf =           19
+           4
+           3
+ Loading CSF File for block            3
+ From LODCSL:
+ CSF            1
+ ITJPO:            6
+ ISPAR:           -1
+ IQ:            2           2           2           4           1           0           1           0           1
+ JQS(1):            0           0           0           0           1           0           1           0           1
+ JQS(2):            0           0           0           0           0           0           0           0           0
+ JQS(3):            1           1           1           1           2           1           4           1           6
+ JCUP:            3           6           0           0           0           0           0           0
+ CSF            2
+ ITJPO:            6
+ ISPAR:           -1
+ IQ:            2           2           2           4           1           0           1           0           1
+ JQS(1):            0           0           0           0           1           0           1           0           1
+ JQS(2):            0           0           0           0           0           0           0           0           0
+ JQS(3):            1           1           1           1           2           1           4           1           6
+ JCUP:            5           6           0           0           0           0           0           0
+ CSF            3
+ ITJPO:            6
+ ISPAR:           -1
+ IQ:            2           2           2           4           1           0           1           1           0
+ JQS(1):            0           0           0           0           1           0           1           1           0
+ JQS(2):            0           0           0           0           0           0           0           0           0
+ JQS(3):            1           1           1           1           2           1           4           4           1
+ JCUP:            3           6           0           0           0           0           0           0
+ CSF            4
+ ITJPO:            6
+ ISPAR:           -1
+ IQ:            2           2           2           4           1           0           1           1           0
+ JQS(1):            0           0           0           0           1           0           1           1           0
+ JQS(2):            0           0           0           0           0           0           0           0           0
+ JQS(3):            1           1           1           1           2           1           4           4           1
+ JCUP:            5           6           0           0           0           0           0           0
+ CSF            5
+ ITJPO:            6
+ ISPAR:           -1
+ IQ:            2           2           2           4           1           1           0           0           1
+ JQS(1):            0           0           0           0           1           1           0           0           1
+ JQS(2):            0           0           0           0           0           0           0           0           0
+ JQS(3):            1           1           1           1           2           2           1           1           6
+ JCUP:            1           6           0           0           0           0           0           0
+ CSF            6
+ ITJPO:            6
+ ISPAR:           -1
+ IQ:            2           2           2           4           1           1           0           0           1
+ JQS(1):            0           0           0           0           1           1           0           0           1
+ JQS(2):            0           0           0           0           0           0           0           0           0
+ JQS(3):            1           1           1           1           2           2           1           1           6
+ JCUP:            3           6           0           0           0           0           0           0
+ CSF            7
+ ITJPO:            6
+ ISPAR:           -1
+ IQ:            2           2           2           4           1           1           0           1           0
+ JQS(1):            0           0           0           0           1           1           0           1           0
+ JQS(2):            0           0           0           0           0           0           0           0           0
+ JQS(3):            1           1           1           1           2           2           1           4           1
+ JCUP:            3           6           0           0           0           0           0           0
+ CSF            8
+ ITJPO:            6
+ ISPAR:           -1
+ IQ:            2           2           2           4           0           1           2           0           0
+ JQS(1):            0           0           0           0           0           1           2           0           0
+ JQS(2):            0           0           0           0           0           0           0           0           0
+ JQS(3):            1           1           1           1           1           2           5           1           1
+ JCUP:            6           0           0           0           0           0           0           0
+ CSF            9
+ ITJPO:            6
+ ISPAR:           -1
+ IQ:            2           2           2           4           0           0           1           0           2
+ JQS(1):            0           0           0           0           0           0           1           0           2
+ JQS(2):            0           0           0           0           0           0           0           0           0
+ JQS(3):            1           1           1           1           1           1           4           1           5
+ JCUP:            6           0           0           0           0           0           0           0
+ CSF           10
+ ITJPO:            6
+ ISPAR:           -1
+ IQ:            2           2           2           4           0           0           1           0           2
+ JQS(1):            0           0           0           0           0           0           1           0           2
+ JQS(2):            0           0           0           0           0           0           0           0           0
+ JQS(3):            1           1           1           1           1           1           4           1           9
+ JCUP:            6           0           0           0           0           0           0           0
+ CSF           11
+ ITJPO:            6
+ ISPAR:           -1
+ IQ:            2           2           2           4           0           0           1           1           1
+ JQS(1):            0           0           0           0           0           0           1           1           1
+ JQS(2):            0           0           0           0           0           0           0           0           0
+ JQS(3):            1           1           1           1           1           1           4           4           6
+ JCUP:            1           6           0           0           0           0           0           0
+ CSF           12
+ ITJPO:            6
+ ISPAR:           -1
+ IQ:            2           2           2           4           0           0           1           1           1
+ JQS(1):            0           0           0           0           0           0           1           1           1
+ JQS(2):            0           0           0           0           0           0           0           0           0
+ JQS(3):            1           1           1           1           1           1           4           4           6
+ JCUP:            3           6           0           0           0           0           0           0
+ CSF           13
+ ITJPO:            6
+ ISPAR:           -1
+ IQ:            2           2           2           4           0           0           1           1           1
+ JQS(1):            0           0           0           0           0           0           1           1           1
+ JQS(2):            0           0           0           0           0           0           0           0           0
+ JQS(3):            1           1           1           1           1           1           4           4           6
+ JCUP:            5           6           0           0           0           0           0           0
+ CSF           14
+ ITJPO:            6
+ ISPAR:           -1
+ IQ:            2           2           2           4           0           0           1           1           1
+ JQS(1):            0           0           0           0           0           0           1           1           1
+ JQS(2):            0           0           0           0           0           0           0           0           0
+ JQS(3):            1           1           1           1           1           1           4           4           6
+ JCUP:            7           6           0           0           0           0           0           0
+ CSF           15
+ ITJPO:            6
+ ISPAR:           -1
+ IQ:            2           2           2           4           0           0           1           2           0
+ JQS(1):            0           0           0           0           0           0           1           2           0
+ JQS(2):            0           0           0           0           0           0           0           0           0
+ JQS(3):            1           1           1           1           1           1           4           5           1
+ JCUP:            6           0           0           0           0           0           0           0
+ CSF           16
+ ITJPO:            6
+ ISPAR:           -1
+ IQ:            2           2           2           4           0           1           0           0           2
+ JQS(1):            0           0           0           0           0           1           0           0           2
+ JQS(2):            0           0           0           0           0           0           0           0           0
+ JQS(3):            1           1           1           1           1           2           1           1           5
+ JCUP:            6           0           0           0           0           0           0           0
+ CSF           17
+ ITJPO:            6
+ ISPAR:           -1
+ IQ:            2           2           2           4           0           1           0           1           1
+ JQS(1):            0           0           0           0           0           1           0           1           1
+ JQS(2):            0           0           0           0           0           0           0           0           0
+ JQS(3):            1           1           1           1           1           2           1           4           6
+ JCUP:            3           6           0           0           0           0           0           0
+ CSF           18
+ ITJPO:            6
+ ISPAR:           -1
+ IQ:            2           2           2           4           0           1           0           1           1
+ JQS(1):            0           0           0           0           0           1           0           1           1
+ JQS(2):            0           0           0           0           0           0           0           0           0
+ JQS(3):            1           1           1           1           1           2           1           4           6
+ JCUP:            5           6           0           0           0           0           0           0
+ CSF           19
+ ITJPO:            6
+ ISPAR:           -1
+ IQ:            2           2           2           4           0           1           0           2           0
+ JQS(1):            0           0           0           0           0           1           0           2           0
+ JQS(2):            0           0           0           0           0           0           0           0           0
+ JQS(3):            1           1           1           1           1           2           1           5           1
+ JCUP:            6           0           0           0           0           0           0           0
+ There are           19  relativistic CSFs... load complete;
+ Analysing sparse matrix array definition file ...          30
+  ... complete; density of non-zero elements of H(DC):         160 /         190
+ Sorting 0 T coefficients ...          31
+
+From SORT:
+ Sorting 0 V(k=0) coefficients ...          32
+
+From SORT:
+ Sorting 108 V(k=1) coefficients ...          33
+
+From SORT:
+ Sorting 215 V(k=2) coefficients ...          34
+
+From SORT:
+ Sorting 75 V(k=3) coefficients ...          35
+
+From SORT:
+ Sorting 28 V(k=4) coefficients ...          36
+
+From SORT:
+ Sorting 0 V(k=5) coefficients ...          37
+
+From SORT:
+
+ Wall time:
+       15 seconds
+
+ Finish Date and Time:
+   Date (Yr/Mon/Day): 2019/07/24
+   Time (Hr/Min/Sec): 12/54/30.175
+   Zone: -0700
+
+ RANGULAR: Execution complete.
